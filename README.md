@@ -1,1 +1,1 @@
-# MAT301-Applied_Stats_Data_Analytics-
+# MAT301-Applied_Stats_Data_Analytics
